@@ -1,1 +1,1 @@
-## Omegle Clone using WebRTC (p2p)
+## Video Chat app
